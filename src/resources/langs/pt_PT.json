@@ -1,0 +1,84 @@
+{
+    "global": {
+        "unexpected_error": "Unexpected error has been ocurred.",
+        "cooldown": "Você pode usar este comando novamente até",
+        "word": {
+            "code": "Código",
+            "causes": "Tipo",
+            "description": "Descrição",
+            "type_error": "Tipo",
+            "solution": "Solução",
+            "members": "Membros",
+            "member": "Membro",
+            "channels": "Canais",
+            "messages": "Mensagens",
+            "roles": "Funções",
+            "emojis": "Emoticons",
+            "id": "Identificador",
+            "name": "Nome",
+            "owner": "Proprietário",
+            "region": "Região",
+            "lang": "Lang",
+            "created_at": "Criação",
+            "verification": "Verificação",
+            "features": "Caracteristicas",
+            "level": "Nível",
+            "nickname": "Apodo",
+            "status": "Status",
+            "activity": "Atividade",
+            "username": "Nome do usuário",
+            "since": "Desde a",
+            "listening": "Ouvindo"
+        }
+    },
+    "commands": {
+        "help": {
+            "head_message_embed_aMlQaZJ": "Bem-vindo ao meu menu de ajuda. Agora você pode ver toda a minha documentação.",
+            "center_fields_embed_aMlQaZJ": {
+                "0": "[`Documentação`](https://google.com/)",
+                "1": "[`Painel de Controle`](https://google.com/)",
+                "2": "[`Voto`](https://google.com/)"
+            }
+        },
+        "prefix": {
+            "need_prefix_argument": "Você precisa especificar um novo prefixo. `prefix <argument1>`",
+            "exceeds_max_length": "O comprimento do prefixo excede os intervalos permitidos.",
+            "success_the_prefix_has_been_changed_to": "O prefixo foi alterado com sucesso para"
+        },
+        "lang": {
+            "canceled_until": "Esta mensagem funcionará por até 60 segundos.",
+            "changed_to": "O idioma foi alterado para",
+            "attempts": "Tentativos"
+        },
+        "snipe": {
+            "not_recently": "Não há mensagens excluídas recentemente.",
+            "content": "Conteúdo",
+            "author": "Autor",
+            "message_id": "ID da mensagem",
+            "deleted": "Data de Eliminação"
+        },
+        "resource": {
+            "type": "Você precisa especificar o tipo de pesquisa",
+            "key": "Você precisa especificar os dados para pesquisar no tipo de pesquisa",
+            "unknown_error": "Erro desconhecido. Para ver a lista de erros"
+        },
+        "guild_info": {
+            "explicit_content": "Conteúdo explícito",
+            "on_numbers": "Em números",
+            "rules_channel": "Canal de regras",
+            "system_channel": "Canal do Sistema",
+            "public_updates_channel": "Canal de atualizações públicas"
+        },
+        "user_info": {
+            "joined_since": "Aderiu desde"
+        },
+        "color": {
+            "changed_to": "A cor foi alterada com sucesso para"
+        },
+        "purge": {
+            "total_messages": "Total de mensagens excluídas de",
+            "limits": "O número de linhas é limitado",
+            "need_lines": "Você precisa especificar o número de linhas."
+        }
+    }
+}

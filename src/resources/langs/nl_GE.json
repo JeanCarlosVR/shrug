@@ -1,0 +1,84 @@
+{
+    "global": {
+        "unexpected_error": "Unexpected error has been ocurred.",
+        "cooldown": "Sie können diesen Befehl bis erneut verwenden",
+        "word": {
+            "code": "Code",
+            "causes": "Ursachen",
+            "description": "Beschreibung",
+            "type_error": "Art",
+            "solution": "Lösung",
+            "members": "Mitglieder",
+            "member": "Mitglied",
+            "channels": "Kanäle",
+            "messages": "Mitteilungen",
+            "roles": "Rollen",
+            "emojis": "Emoticons",
+            "id": "Kennung",
+            "name": "Name",
+            "owner": "Imhaber",
+            "region": "Region",
+            "lang": "Lang",
+            "created_at": "Schaffung",
+            "verification": "Überprüfung",
+            "features": "Eigenschaften",
+            "level": "Niveau",
+            "nickname": "Spitzname",
+            "status": "Status",
+            "activity": "Aktivität",
+            "username": "Nutzername",
+            "since": "Schon seit",
+            "listening": "Hören"
+        }
+    },
+    "commands": {
+        "help": {
+            "head_message_embed_aMlQaZJ": "Oh, willkommen in meinem Hilfemenü. Jetzt können Sie alle meine Unterlagen sehen.",
+            "center_fields_embed_aMlQaZJ": {
+                "0": "[`Dokumentation`](https://google.com/)",
+                "1": "[`Schalttafel`](https://google.com/)",
+                "2": "[`Abstimmung`](https://google.com/)"
+            }
+        },
+        "prefix": {
+            "need_prefix_argument": "Sie müssen ein neues Präfix angeben. `prefix <argument1>`",
+            "exceeds_max_length": "Die Länge des Präfixes überschreitet die zulässigen Bereiche..",
+            "success_the_prefix_has_been_changed_to": "Das Präfix wurde erfolgreich in geändert"
+        },
+        "lang": {
+            "canceled_until": "Diese Meldung funktioniert bis zu 60 Sekunden.",
+            "changed_to": "Die Sprache wurde in geändert",
+            "attempts": "Versuche"
+        },
+        "snipe": {
+            "not_recently": "In letzter Zeit wurden keine Nachrichten gelöscht.",
+            "content": "Inhalt",
+            "author": "Autor",
+            "message_id": "Botschaft ID",
+            "deleted": "Eliminierungsdatum"
+        },
+        "resource": {
+            "type": "Sie müssen den Suchtyp angeben",
+            "key": "Sie müssen die zu durchsuchenden Daten in der Art der Suche angeben",
+            "unknown_error": "Unbekannter Fehler. Anzeigen der Fehlerliste"
+        },
+        "guild_info": {
+            "explicit_content": "Expliziter Inhalt",
+            "on_numbers": "Auf Zahlen",
+            "rules_channel": "Regelkanal",
+            "system_channel": "Systemkanal",
+            "public_updates_channel": "Kanal für öffentliche Updates"
+        },
+        "user_info": {
+            "joined_since": "Beitritt seit"
+        },
+        "color": {
+            "changed_to": "Die Farbe wurde erfolgreich in geändert"
+        },
+        "purge": {
+            "total_messages": "Gesamtzahl der gelöschten Nachrichten aus",
+            "limits": "Die Anzahl der Zeilen ist begrenzt",
+            "need_lines": "Sie müssen die Anzahl der Zeilen angeben."
+        }
+    }
+}

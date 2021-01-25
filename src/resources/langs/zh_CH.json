@@ -1,0 +1,84 @@
+{
+    "global": {
+        "unexpected_error": "Unexpected error has been ocurred.",
+        "cooldown": "您可以再次使用此命令，直到",
+        "word": {
+            "code": "码",
+            "causes": "原因",
+            "description": "描述",
+            "type_error": "类型",
+            "solution": "解",
+            "members": "会员",
+            "member": "会员",
+            "channels": "频道",
+            "messages": "留言内容",
+            "roles": "的角色",
+            "emojis": "表情符号",
+            "id": "标识符",
+            "name": "名称",
+            "owner": "所有者",
+            "region": "地区",
+            "lang": "语言",
+            "created_at": "创建",
+            "verification": "验证",
+            "features": "特征",
+            "level": "水平",
+            "nickname": "阿波多",
+            "status": "状态",
+            "activity": "活动",
+            "username": "用户名",
+            "since": "以来",
+            "listening": "倾听"
+        }
+    },
+    "commands": {
+        "help": {
+            "head_message_embed_aMlQaZJ": "哦，欢迎来到我的帮助菜单。 现在您可以看到我的所有文档。",
+            "center_fields_embed_aMlQaZJ": {
+                "0": "[`文献资料`](https://google.com/)",
+                "1": "[`仪表板`](https://google.com/)",
+                "2": "[`投票`](https://google.com/)"
+            }
+        },
+        "prefix": {
+            "need_prefix_argument": "您需要指定一个新的前缀。 `prefix <argument1>`",
+            "exceeds_max_length": "前缀长度超出允许范围。",
+            "success_the_prefix_has_been_changed_to": "前缀已成功更改为"
+        },
+        "lang": {
+            "canceled_until": "此消息将持续到60秒。",
+            "changed_to": "语言已更改为",
+            "attempts": "尝试次数"
+        },
+        "snipe": {
+            "not_recently": "最近没有删除的消息。",
+            "content": "内容",
+            "author": "作者",
+            "message_id": "讯息编号",
+            "deleted": "淘汰日期"
+        },
+        "resource": {
+            "type": "您需要指定搜索类型",
+            "key": "您需要在搜索类型中指定要搜索的数据",
+            "unknown_error": "未知错误。 查看错误列表"
+        },
+        "guild_info": {
+            "explicit_content": "明确的内容",
+            "on_numbers": "在数字上",
+            "rules_channel": "规则频道",
+            "system_channel": "系统频道",
+            "public_updates_channel": "公开更新频道"
+        },
+        "user_info": {
+            "joined_since": "自加入以来"
+        },
+        "color": {
+            "changed_to": "颜色已成功更改为"
+        },
+        "purge": {
+            "total_messages": "从中删除的邮件总数",
+            "limits": "行数是有限的",
+            "need_lines": "您需要指定行数。"
+        }
+    }
+}

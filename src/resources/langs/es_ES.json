@@ -1,0 +1,84 @@
+{
+    "global": {
+        "unexpected_error": "Un error inesperado ha ocurrido.",
+        "cooldown": "Podras usar este comando nuevamente dentro de",
+        "word": {
+            "code": "Codigo",
+            "causes": "Causas",
+            "description": "Descripcion",
+            "type_error": "Tipo",
+            "solution": "Solucion",
+            "members": "Miembros",
+            "member": "Miembro",
+            "channels": "Canales",
+            "messages": "Mensajes",
+            "roles": "Roles",
+            "emojis": "Emoticones",
+            "id": "Identificador",
+            "name": "Nombre",
+            "owner": "Propietario",
+            "region": "Region",
+            "lang": "Idioma",
+            "created_at": "Creacion",
+            "verification": "Verificacion",
+            "features": "Caracteristicas",
+            "level": "Nivel",
+            "nickname": "Apodo",
+            "status": "Estado",
+            "activity": "Actividad",
+            "username": "Nombre de Usuario",
+            "since": "Hace",
+            "listening": "Escuchando"
+        }
+    },
+    "commands": {
+        "help": {
+            "head_message_embed_aMlQaZJ": "Oh bienvenido a mi menu de ayuda. Ahora podras ver toda mi documentacion.",
+            "center_fields_embed_aMlQaZJ": {
+                "0": "[`Documentacion`](https://google.com/)",
+                "1": "[`Panel de Control`](https://google.com/)",
+                "2": "[`Votanos`](https://google.com/)"
+            }
+        },
+        "prefix": {
+            "need_prefix_argument": "Necesitas espeficar un nuevo prefijo. `prefix <argument1>`",
+            "exceeds_max_length": "La longitud del prefijo supera los rangos permitidos.",
+            "success_the_prefix_has_been_changed_to": "El prefijo ha sido correctamente cambiado a"
+        },
+        "lang": {
+            "canceled_until": "Este mensaje funcionará hasta 60 segundos.",
+            "changed_to": "El idioma ha sido correctamente cambiado a",
+            "attempts": "Intentos"
+        },
+        "snipe": {
+            "not_recently": "No hay mensajes eliminados recientemente.",
+            "content": "Contenido",
+            "author": "Autor",
+            "message_id": "ID del Mensaje",
+            "deleted": "Fecha de Eliminacion"
+        },
+        "resource": {
+            "type": "Necesitas especificar el tipo de busqueda",
+            "key": "Necesitas especificar el dato para buscar en el tipo de busqueda",
+            "unknown_error": "Error desconocido. Para ver la lista de errores:"
+        },
+        "guild_info": {
+            "explicit_content": "Contenido Explicito",
+            "on_numbers": "En Numeros",
+            "rules_channel": "Canal de Reglas",
+            "system_channel": "Canal del Sistema",
+            "public_updates_channel": "Canal de Actualizacion Publicas"
+        },
+        "user_info": {
+            "joined_since": "Ingresó Hace"
+        },
+        "color": {
+            "changed_to": "El color ha sido correctamente cambiado a"
+        },
+        "purge": {
+            "total_messages": "Numero total de mensajes borrados de",
+            "limits": "El numero de lineas esta limitado",
+            "need_lines": "Necesitas espeficiar el numero de lineas."
+        }
+    }
+}

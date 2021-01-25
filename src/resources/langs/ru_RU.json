@@ -1,0 +1,84 @@
+{
+    "global": {
+        "unexpected_error": "Unexpected error has been ocurred.",
+        "cooldown": "Вы можете использовать эту команду снова, пока",
+        "word": {
+            "code": "Код",
+            "causes": "Причины",
+            "description": "Описание",
+            "type_error": "Тип",
+            "solution": "Решение",
+            "members": "Члены",
+            "member": "Член",
+            "channels": "каналы",
+            "messages": "Сообщения",
+            "roles": "Роли",
+            "emojis": "Смайлики",
+            "id": "Идентификатор",
+            "name": "название",
+            "owner": "Владелец",
+            "region": "Область",
+            "lang": "Язык",
+            "created_at": "Cоздание",
+            "verification": "Проверка",
+            "features": "Характеристики",
+            "level": "Уровень",
+            "nickname": "Аподо",
+            "status": "Положение дел",
+            "activity": "Деятельность",
+            "username": "Имя пользователя",
+            "since": "поскольку",
+            "listening": "Прослушивание"
+        }
+    },
+    "commands": {
+        "help": {
+            "head_message_embed_aMlQaZJ": "Добро пожаловать в мое меню помощи. Теперь вы можете увидеть всю мою документацию.",
+            "center_fields_embed_aMlQaZJ": {
+                "0": "[`Документация`](https://google.com/)",
+                "1": "[`Панель управления`](https://google.com/)",
+                "2": "[`Голос`](https://google.com/)"
+            }
+        },
+        "prefix": {
+            "need_prefix_argument": "Вам нужно указать новый префикс. `prefix <argument1>`",
+            "exceeds_max_length": "Длина префикса превышает допустимые диапазоны.",
+            "success_the_prefix_has_been_changed_to": "Префикс успешно изменен на"
+        },
+        "lang": {
+            "canceled_until": "Это сообщение будет работать до 60 секунд.",
+            "changed_to": "Язык был изменен на",
+            "attempts": "Попытки"
+        },
+        "snipe": {
+            "not_recently": "За последнее время удаленных сообщений нет.",
+            "content": "Содержание",
+            "author": "Автор",
+            "message_id": "ID сообщения",
+            "deleted": "Дата исключения"
+        },
+        "resource": {
+            "type": "Вам необходимо указать тип поиска",
+            "key": "Вам необходимо указать данные для поиска в типе поиска",
+            "unknown_error": "Неизвестная ошибка. Чтобы увидеть список ошибок"
+        },
+        "guild_info": {
+            "explicit_content": "Явное содержание",
+            "on_numbers": "По номерам",
+            "rules_channel": "Канал правил",
+            "system_channel": "Системный канал",
+            "public_updates_channel": "Канал публичных обновлений"
+        },
+        "user_info": {
+            "joined_since": "Присоединился с"
+        },
+        "color": {
+            "changed_to": "Цвет успешно изменен на"
+        },
+        "purge": {
+            "total_messages": "Всего сообщений удалено из",
+            "limits": "Количество строк ограничено",
+            "need_lines": "Вам нужно указать количество строк."
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "global": {
+        "unexpected_error": "Unexpected error has been ocurred.",
+        "cooldown": "Bu komutu tekrar kullanabilirsiniz.",
+        "word": {
+            "code": "Kod",
+            "causes": "Nedenleri",
+            "description": "Açıklama",
+            "type_error": "Tür",
+            "solution": "Çözüm",
+            "members": "Üyeler",
+            "member": "Üyel",
+            "channels": "Kanallar",
+            "messages": "Mesajlar",
+            "roles": "Roller",
+            "emojis": "İfadeler",
+            "id": "Tanımlayıcı",
+            "name": "İsim",
+            "owner": "Sahip",
+            "region": "Bölge",
+            "lang": "Dil",
+            "created_at": "Yaratılış",
+            "verification": "Doğrulama",
+            "features": "Özellikleri",
+            "level": "Seviye",
+            "nickname": "Takma ad",
+            "status": "Durum",
+            "activity": "Aktivite",
+            "username": "Kullanıcı adı",
+            "since": "Dan beri",
+            "listening": "Dinleme"
+        }
+    },
+    "commands": {
+        "help": {
+            "head_message_embed_aMlQaZJ": "Yardım menüme hoş geldiniz. Artık tüm belgelerimi görebilirsiniz.",
+            "center_fields_embed_aMlQaZJ": {
+                "0": "[`Belgeleme`](https://google.com/)",
+                "1": "[`Kontrol Paneli`](https://google.com/)",
+                "2": "[`Oyla`](https://google.com/)"
+            }
+        },
+        "prefix": {
+            "need_prefix_argument": "Yeni bir önek belirlemeniz gerekiyor. `prefix <argument1>`",
+            "exceeds_max_length": "Ön ekin uzunluğu, izin verilen aralıkları aşıyor.",
+            "success_the_prefix_has_been_changed_to": "Önek başarıyla değiştirildi"
+        },
+        "lang": {
+            "canceled_until": "Bu mesaj 60 saniyeye kadar çalışacaktır.",
+            "changed_to": "Dil şu şekilde değiştirildi",
+            "attempts": "Denemeler"
+        },
+        "snipe": {
+            "not_recently": "Son zamanlarda silinen mesaj yok.",
+            "content": "İçerik",
+            "author": "Yazar",
+            "message_id": "Mesaj Kimliği",
+            "deleted": "Eliminasyon Tarihi"
+        },
+        "resource": {
+            "type": "Arama türünü belirtmeniz gerekiyor",
+            "key": "Arama türünde aranacak verileri belirtmeniz gerekir",
+            "unknown_error": "Bilinmeyen hata. Hata listesini görmek için"
+        },
+        "guild_info": {
+            "explicit_content": "Uygunsuz İçerik",
+            "on_numbers": "Sayılarda",
+            "rules_channel": "Kural Kanalı",
+            "system_channel": "Sistem Kanalı",
+            "public_updates_channel": "Genel Güncellemeler Kanalı"
+        },
+        "user_info": {
+            "joined_since": "O zamandan beri katıldı"
+        },
+        "color": {
+            "changed_to": "Renk başarıyla değiştirildi"
+        },
+        "purge": {
+            "total_messages": "Sayfasından silinen toplam ileti",
+            "limits": "Hat sayısı sınırlıdır",
+            "need_lines": "Satır sayısını belirtmeniz gerekiyor."
+        }
+    }
+}

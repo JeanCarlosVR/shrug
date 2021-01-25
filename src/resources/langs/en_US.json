@@ -1,0 +1,84 @@
+{
+    "global": {
+        "unexpected_error": "Unexpected error has been ocurred.",
+        "cooldown": "You can use this command again until",
+        "word": {
+            "code": "Code",
+            "causes": "Causes",
+            "description": "Description",
+            "type_error": "Type",
+            "solution": "Solution",
+            "members": "Members",
+            "member": "Member",
+            "channels": "Channels",
+            "messages": "Messages",
+            "roles": "Roles",
+            "emojis": "Emojis",
+            "id": "ID",
+            "name": "Name",
+            "owner": "Owner",
+            "region": "Region",
+            "lang": "Lang",
+            "created_at": "Created At",
+            "verification": "Verification",
+            "features": "Features",
+            "level": "Level",
+            "nickname": "Nickname",
+            "status": "Status",
+            "activity": "Activity",
+            "username": "Username",
+            "since": "Since",
+            "listening": "Listening"
+        }
+    },
+    "commands": {
+        "help": {
+            "head_message_embed_aMlQaZJ": "Oh welcome to my help menu. Now you can view all my documentation.",
+            "center_fields_embed_aMlQaZJ": {
+                "0": "[`Documentation`](https://google.com/)",
+                "1": "[`Dashboard`](https://google.com/)",
+                "2": "[`Vote`](https://google.com/)"
+            }
+        },
+        "prefix": {
+            "need_prefix_argument": "You need specify a new prefix. `prefix <argument1>`",
+            "exceeds_max_length": "The length of the prefix exceeds the allowed ranges.",
+            "success_the_prefix_has_been_changed_to": "The prefix has been successfully changed to"
+        },
+        "lang": {
+            "canceled_until": "This message will work until 60 seconds.",
+            "changed_to": "The language has been changed to",
+            "attempts": "Attempts"
+        },
+        "snipe": {
+            "not_recently": "There are no messages deleted lately.",
+            "content": "Content",
+            "author": "Author",
+            "message_id": "Message ID",
+            "deleted": "Elimination Date"
+        },
+        "resource": {
+            "type": "You need to specify search type",
+            "key": "You need to specify the data to search in the type of search",
+            "unknown_error": "Unknown error. To see the list of errors"
+        },
+        "guild_info": {
+            "explicit_content": "Explicit Content",
+            "on_numbers": "On Numbers",
+            "rules_channel": "Rules Channel",
+            "system_channel": "System Channel",
+            "public_updates_channel": "Public Updates Channel"
+        },
+        "user_info": {
+            "joined_since": "Joined Since"
+        },
+        "color": {
+            "changed_to": "The color has been successfully changed to"
+        },
+        "purge": {
+            "total_messages": "Total messages deleted from",
+            "limits": "The number of lines is limited",
+            "need_lines": "You need specify number of lines."
+        }
+    }
+}

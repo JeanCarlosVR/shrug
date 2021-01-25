@@ -1,0 +1,84 @@
+{
+    "global": {
+        "unexpected_error": "Unexpected error has been ocurred.",
+        "cooldown": "आप इस आदेश का उपयोग तब तक फिर से कर सकते हैं",
+        "word": {
+            "code": "कोड",
+            "causes": "कारण",
+            "description": "विवरण",
+            "type_error": "प्रकार",
+            "solution": "उपाय",
+            "members": "सदस्य",
+            "member": "सदस्य",
+            "channels": "चैनल",
+            "messages": "संदेश",
+            "roles": "भूमिकाएँ",
+            "emojis": "इमोटिकॉन्स",
+            "id": "पहचान",
+            "name": "नाम",
+            "owner": "मालिक",
+            "region": "क्षेत्र",
+            "lang": "लैंग",
+            "created_at": "सृष्टि",
+            "verification": "सत्यापन",
+            "features": "विशेषताएं",
+            "level": "स्तर",
+            "nickname": "उपनाम",
+            "status": "स्थिति",
+            "activity": "गतिविधि",
+            "username": "उपयोगकर्ता नाम",
+            "since": "जबसे",
+            "listening": "सुनना"
+        }
+    },
+    "commands": {
+        "help": {
+            "head_message_embed_aMlQaZJ": "ओह मेरी मदद मेनू में आपका स्वागत है। अब आप मेरे सभी दस्तावेज देख सकते हैं।",
+            "center_fields_embed_aMlQaZJ": {
+                "0": "[`प्रलेखन`](https://google.com/)",
+                "1": "[`कंट्रोल पैनल`](https://google.com/)",
+                "2": "[`हमें वोट दो`](https://google.com/)"
+            }
+        },
+        "prefix": {
+            "need_prefix_argument": "आपको एक नया उपसर्ग निर्दिष्ट करने की आवश्यकता है। `prefix <argument1>`",
+            "exceeds_max_length": "उपसर्ग की लंबाई अनुमत सीमाओं से अधिक है।",
+            "success_the_prefix_has_been_changed_to": "उपसर्ग को सफलतापूर्वक बदल दिया गया है"
+        },
+        "lang": {
+            "canceled_until": "यह संदेश 60 सेकंड तक काम करेगा।",
+            "changed_to": "भाषा को बदल दिया गया है",
+            "attempts": "प्रयास"
+        },
+        "snipe": {
+            "not_recently": "हाल ही में हटाए गए कोई संदेश नहीं हैं।",
+            "content": "सामग्री",
+            "author": "लेखक",
+            "message_id": "संदेश आईडी",
+            "deleted": "उन्मूलन तिथि"
+        },
+        "resource": {
+            "type": "आपको खोज प्रकार निर्दिष्ट करने की आवश्यकता है",
+            "key": "आपको खोज के प्रकार में खोज करने के लिए डेटा निर्दिष्ट करने की आवश्यकता है",
+            "unknown_error": "अज्ञात त्रुटि। त्रुटियों की सूची देखने के लिए"
+        },
+        "guild_info": {
+            "explicit_content": "स्पष्ट सामग्री",
+            "on_numbers": "नंबरों पर",
+            "rules_channel": "नियम चैनल",
+            "system_channel": "सिस्टम चैनल",
+            "public_updates_channel": "पब्लिक अपडेट्स चैनल"
+        },
+        "user_info": {
+            "joined_since": "कब से ज्वाइन किया है"
+        },
+        "color": {
+            "changed_to": "रंग को सफलतापूर्वक बदल दिया गया है"
+        },
+        "purge": {
+            "total_messages": "कुल संदेश हटाए गए",
+            "limits": "लाइनों की संख्या सीमित है",
+            "need_lines": "आपको लाइनों की संख्या निर्दिष्ट करने की आवश्यकता है।"
+        }
+    }
+}

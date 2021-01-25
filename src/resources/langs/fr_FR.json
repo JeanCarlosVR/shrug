@@ -1,0 +1,84 @@
+{
+    "global": {
+        "unexpected_error": "Unexpected error has been ocurred.",
+        "cooldown": "Vous pouvez utiliser à nouveau cette commande jusqu'à",
+        "word": {
+            "code": "Code",
+            "causes": "Les causes",
+            "description": "La description",
+            "type_error": "Type",
+            "solution": "Solution",
+            "members": "Membres",
+            "member": "Membre",
+            "channels": "Canaux",
+            "messages": "Messages",
+            "roles": "Les rôles",
+            "emojis": "Émoticônes",
+            "id": "Identificateur",
+            "name": "Nom",
+            "owner": "Propriétaire",
+            "region": "Région",
+            "lang": "Lang",
+            "created_at": "Création",
+            "verification": "Vérification",
+            "features": "Caractéristiques",
+            "level": "Niveau",
+            "nickname": "Surnom",
+            "status": "Statut",
+            "activity": "Activité",
+            "username": "Nom d'utilisateur",
+            "since": "Puisque",
+            "listening": "Écoute"
+        }
+    },
+    "commands": {
+        "help": {
+            "head_message_embed_aMlQaZJ": "Oh bienvenue dans mon menu d'aide. Vous pouvez maintenant voir toute ma documentation.",
+            "center_fields_embed_aMlQaZJ": {
+                "0": "[`Documentation`](https://google.com/)",
+                "1": "[`Panneau de commande`](https://google.com/)",
+                "2": "[`Votez avec nous`](https://google.com/)"
+            }
+        },
+        "prefix": {
+            "need_prefix_argument": "Vous devez spécifier un nouveau préfixe. `prefix <argument1>`",
+            "exceeds_max_length": "La longueur du préfixe dépasse les plages autorisées.",
+            "success_the_prefix_has_been_changed_to": "Le préfixe a été changé avec succès en"
+        },
+        "lang": {
+            "canceled_until": "Ce message fonctionnera jusqu'à 60 secondes.",
+            "changed_to": "La langue a été changée en",
+            "attempts": "Tentatives"
+        },
+        "snipe": {
+            "not_recently": "Aucun message n'a été supprimé récemment.",
+            "content": "Contenu",
+            "author": "Auteur",
+            "message_id": "ID du message",
+            "deleted": "Date d'élimination"
+        },
+        "resource": {
+            "type": "Vous devez spécifier le type de recherche",
+            "key": "Vous devez spécifier les données à rechercher dans le type de recherche",
+            "unknown_error": "Erreur inconnue. Pour voir la liste des erreurs"
+        },
+        "guild_info": {
+            "explicit_content": "Contenu explicite",
+            "on_numbers": "Sur les nombres",
+            "rules_channel": "Canal de règles",
+            "system_channel": "Canal système",
+            "public_updates_channel": "Chaîne de mises à jour publiques"
+        },
+        "user_info": {
+            "joined_since": "Rejoint depuis"
+        },
+        "color": {
+            "changed_to": "La couleur a été modifiée avec succès en"
+        },
+        "purge": {
+            "total_messages": "Total des messages supprimés de",
+            "limits": "Le nombre de lignes est limité",
+            "need_lines": "Vous devez spécifier le nombre de lignes."
+        }
+    }
+}

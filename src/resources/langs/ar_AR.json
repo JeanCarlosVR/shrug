@@ -1,0 +1,84 @@
+{
+    "global": {
+        "unexpected_error": "Unexpected error has been ocurred.",
+        "cooldown": "يمكنك استخدام هذا الأمر مرة أخرى حتى",
+        "word": {
+            "code": "الشفرة",
+            "causes": "الأسباب",
+            "description": "وصف",
+            "type_error": "نوع",
+            "solution": "المحلول",
+            "members": "أفراد",
+            "member": "عضو",
+            "channels": "القنوات",
+            "messages": "الرسائل",
+            "roles": "الأدوار",
+            "emojis": "الرموز الانفعالية",
+            "id": "المعرف",
+            "name": "اسم",
+            "owner": "صاحب",
+            "region": "منطقة",
+            "lang": "لانج",
+            "created_at": "خلق",
+            "verification": "التحقق",
+            "features": "المميزات",
+            "level": "مستوى",
+            "nickname": "كنية",
+            "status": "الحالة",
+            "activity": "نشاط",
+            "username": "اسم المستخدم",
+            "since": "منذ",
+            "listening": "الاستماع"
+        }
+    },
+    "commands": {
+        "help": {
+            "head_message_embed_aMlQaZJ": "اهلا وسهلا بك في قائمة المساعدة الخاصة بي. الآن يمكنك رؤية جميع الوثائق الخاصة بي.",
+            "center_fields_embed_aMlQaZJ": {
+                "0": "[`توثيق.`](https://google.com/)",
+                "1": "[`لوحة القيادة`](https://google.com/)",
+                "2": "[`تصويت`](https://google.com/)"
+            }
+        },
+        "prefix": {
+            "need_prefix_argument": "`prefix <argument1>` تحتاج إلى تحديد بادئة جديدة",
+            "exceeds_max_length": "طول البادئة يتجاوز النطاقات المسموح بها",
+            "success_the_prefix_has_been_changed_to": "تم تغيير البادئة بنجاح"
+        },
+        "lang": {
+            "canceled_until": "ستعمل هذه الرسالة حتى 60 ثانية.",
+            "changed_to": "تم تغيير اللغة إلى",
+            "attempts": "محاولات"
+        },
+        "snipe": {
+            "not_recently": "لا توجد رسائل محذوفة مؤخرا.",
+            "content": "المحتوى",
+            "author": "مؤلف",
+            "message_id": "معرف الرسالة",
+            "deleted": "تاريخ الشطب"
+        },
+        "resource": {
+            "type": "تحتاج إلى تحديد نوع البحث",
+            "key": "تحتاج إلى تحديد البيانات للبحث في نوع البحث",
+            "unknown_error": "خطأ غير معروف. لرؤية قائمة الأخطاء"
+        },
+        "guild_info": {
+            "explicit_content": "محتوى صريح",
+            "on_numbers": "على الأرقام",
+            "rules_channel": "قناة القواعد",
+            "system_channel": "قناة النظام",
+            "public_updates_channel": "قناة التحديثات العامة"
+        },
+        "user_info": {
+            "joined_since": "انضم منذ"
+        },
+        "color": {
+            "changed_to": "تم تغيير اللون بنجاح إلى"
+        },
+        "purge": {
+            "total_messages": "إجمالي الرسائل المحذوفة من",
+            "limits": "عدد الخطوط محدود",
+            "need_lines": "تحتاج إلى تحديد عدد الأسطر."
+        }
+    }
+}

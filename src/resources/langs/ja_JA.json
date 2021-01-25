@@ -1,0 +1,84 @@
+{
+    "global": {
+        "unexpected_error": "Unexpected error has been ocurred.",
+        "cooldown": "このコマンドは、",
+        "word": {
+            "code": "コード",
+            "causes": "原因",
+            "description": "説明",
+            "type_error": "タイプ",
+            "solution": "解決",
+            "members": "会員",
+            "member": "メンバー",
+            "channels": "チャンネル",
+            "messages": "メッセージ",
+            "roles": "役割",
+            "emojis": "絵文字",
+            "id": "識別子",
+            "name": "名前",
+            "owner": "オーナー",
+            "region": "領域",
+            "lang": "ラング",
+            "created_at": "創作",
+            "verification": "検証",
+            "features": "特徴",
+            "level": "レベル",
+            "nickname": "ニックネーム",
+            "status": "状態",
+            "activity": "アクティビティ",
+            "username": "ユーザー名",
+            "since": "以来",
+            "listening": "聞いている"
+        }
+    },
+    "commands": {
+        "help": {
+            "head_message_embed_aMlQaZJ": "私のヘルプメニューへようこそ。これで、私のドキュメントをすべて見ることができます。",
+            "center_fields_embed_aMlQaZJ": {
+                "0": "[`ドキュメンテーション`](https://google.com/)",
+                "1": "[`コントロールパネル`](https://google.com/)",
+                "2": "[`投票`](https://google.com/)"
+            }
+        },
+        "prefix": {
+            "need_prefix_argument": "新しいプレフィックスを指定する必要があります。 `prefix <argument1>`",
+            "exceeds_max_length": "プレフィックスの長さが許容範囲を超えています。",
+            "success_the_prefix_has_been_changed_to": "接頭辞は正常に変更されました"
+        },
+        "lang": {
+            "canceled_until": "このメッセージは60秒まで機能します。",
+            "changed_to": "言語が変更されました",
+            "attempts": "पインテントス"
+        },
+        "snipe": {
+            "not_recently": "このコマンドは、",
+            "content": "コンテンツ",
+            "author": "著者",
+            "message_id": "メッセージID",
+            "deleted": " 消去日"
+        },
+        "resource": {
+            "type": "検索タイプを指定する必要があります",
+            "key": "検索の種類で検索するデータを指定する必要があります",
+            "unknown_error": "不明なエラー。 エラーのリストを表示するには"
+        },
+        "guild_info": {
+            "explicit_content": "露骨な内容",
+            "on_numbers": "数字について",
+            "rules_channel": "ルールチャネル",
+            "system_channel": "システムチャンネル",
+            "public_updates_channel": "公開更新チャンネル"
+        },
+        "user_info": {
+            "joined_since": "加入してから"
+        },
+        "color": {
+            "changed_to": "色が正常に変更されました"
+        },
+        "purge": {
+            "total_messages": "から削除されたメッセージの総数",
+            "limits": "行数に制限があります",
+            "need_lines": "行数を指定する必要があります。"
+        }
+    }
+}

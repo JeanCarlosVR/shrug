@@ -1,0 +1,11 @@
+{
+    "set.prefix": {
+        "id": 0,
+        "name": "setPrefix",
+        "permission": "set.prefix",
+        "description": "With this permission the user can modify the guild prefix.",
+        "default_administrators": true,
+        "default_permissions": ["manageMessages", "manageGuild", "administrator"],
+        "allow_edit_permissions_properties": true
+    }
+}

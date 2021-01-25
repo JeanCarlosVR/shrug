@@ -1,0 +1,22 @@
+{
+    "0x2Ax8P": {
+        "code": 100100,
+        "type": 0,
+        "description": "Error while put the new prefix in the database.",
+        "causes": ["Client cannot connected to database.", 
+                "High latency during Shrug join to guild.",
+                "Error while reboot."
+        ],
+        "solution": "Kick `@Shrug` and invite him back to the guild."
+    },
+    "0x47lYu": {
+        "code": 100200,
+        "type": 0,
+        "description": "Error while massive delete messages.",
+        "causes": ["Insufficient Permissions", 
+                "High latency.",
+                "Error while reboot."
+        ],
+        "solution": "Check the permissions of Shrug, if he dont have permissions [invite it again](https://discord.com/oauth2/authorize?client_id=741539390140055622&permissions=1883106934&scope=bot)."
+    }
+}
