@@ -1,2 +1,5 @@
-# shrug
-A Discord Bot
+# Shrug
+
+A Discord Bot base with multilanguage.
+
+Jean
