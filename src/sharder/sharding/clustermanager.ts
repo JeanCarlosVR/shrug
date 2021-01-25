@@ -44,12 +44,12 @@ class ClusterManager extends EventEmitter {
         this.guildsPerShard = options.guildsPerShard || 1300;
         this.webhooks = {
             cluster: {
-                id: "745834960979755079",
-                token: "D7vy_PLQoMjf5b-AniY7zDNH0YWYd38IEBG_PRh8fRZPgQvsZAyPC9uV1EuPXDWrY5gK"
+                id: "WEBHOOK-ID",
+                token: "WEBHOOK-TOKEN"
             },
             shard: {
-                id: "745834960979755079",
-                token: "D7vy_PLQoMjf5b-AniY7zDNH0YWYd38IEBG_PRh8fRZPgQvsZAyPC9uV1EuPXDWrY5gK"
+                id: "WEBHOOK-ID",
+                token: "WEBHOOK-TOKEN"
             }
         };
 
